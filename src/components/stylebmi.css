@@ -1,0 +1,18 @@
+div{
+    background-color: beige;
+}
+h1{
+    text-decoration: underline;
+}
+h1:hover{
+    color: seagreen;
+    text-decoration: underline;
+}
+button{
+    border-radius: 30px;
+}
+button:hover{
+    border-radius: 30px;
+    color : lightgreen;
+    background-color : black;
+}
